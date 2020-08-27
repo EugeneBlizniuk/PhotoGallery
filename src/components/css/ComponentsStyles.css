@@ -1,0 +1,7 @@
+/* just for a little while */
+.MuiCardContent-root {
+  position: relative;
+  padding: 5px !important;
+  padding-bottom: 2px !important;
+  max-height: 10%;
+}
